@@ -94,6 +94,18 @@ main .cartao-pokemon .tipos {
     gap: 15px;
 }
 
+main #div-btn{
+    margin-top: -15px;
+    height: 0;
+    width: 100%;
+    align-items: left;
+}
+
+main .btn-f{
+    max-width: 30px;
+    max-height: 30px;
+}
+
 .tipo-grama {
     background-color: #7ac74c;
     padding: 8px;
@@ -211,19 +223,4 @@ main .descricao {
 
 .pokemon {
     margin: hidden;
-}
-
-.botao-macho {
-    max-width: 20px;
-    max-height: 20px;
-}
-.botao-femea {
-    max-width: 20px;
-    max-height: 20px;
-}
-
-.botao-m-f {
-    background: none;
-    border: none;
-    cursor: pointer;
 }
