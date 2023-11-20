@@ -3,7 +3,7 @@
 }
 
 *::-webkit-scrollbar-track {
-  background: #f1e9e9;
+  display: none;
 }
 
 *::-webkit-scrollbar-thumb {
